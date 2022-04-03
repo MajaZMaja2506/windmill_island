@@ -1,0 +1,5 @@
+newmtl sunmtl
+
+d 1.000000
+illum 2
+map_Kd sun.jpg
